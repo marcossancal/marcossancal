@@ -1,4 +1,5 @@
 ## Oi! Meu nome é Marcos e sou desenvolvedor WEB
+###Tenho 22 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Estou cursando pós graduação em UX/UI e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
 <div>
   <table style="width:100%!important;margin:0 auto;">
     <tbody style="width:100%!important;">
