@@ -1,5 +1,5 @@
 ## Oi! Meu nome é Marcos e sou desenvolvedor de Softwares
-#### Tenho 23 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Estou fazendo pós graduação em UX/UI, estudo Java, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
+#### Tenho 23 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Tenho pós graduação em UX/UI, estudo Java, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
 <div>
   <table style="width:100%!important;margin:0 auto;">
     <tbody style="width:100%!important;">
