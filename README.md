@@ -1,5 +1,5 @@
 ## Oi! Meu nome é Marcos e sou desenvolvedor de Softwares
-#### Tenho 23 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Tenho pós graduação em UX/UI, estudo Java, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
+#### Tenho 24 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Tenho pós graduação em UX/UI, estudo Java, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
 <div>
   <table style="width:100%!important;margin:0 auto;">
     <tbody style="width:100%!important;">
@@ -29,8 +29,7 @@
   ##
  
 <div> 
-  <a href="https://instagram.com/_markdev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/marcossancal" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/marcossancal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos.sanches@sancalproducoes.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/marcossancal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
