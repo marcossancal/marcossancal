@@ -19,7 +19,9 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <a href="https://marcossancal.github.io/"><img align="center" height="35" width="35" src=https://icones.pro/wp-content/uploads/2021/06/icone-github-grise.png"></a>
 </div>
+
 ## E essas são minhas informações para contato!
+
 <div> 
   <a href="https://instagram.com/marcossancal" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:marcos.sanches@sancalproducoes.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
