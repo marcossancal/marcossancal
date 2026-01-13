@@ -1,5 +1,5 @@
 ## Hi! My name is Marcos and I’m a Software Developer
-### I’m 25 years old, a systems analyst, and I mainly work with JavaScript and PHP. I have a postgraduate degree in UX/UI, I'm currently studying Python and Angular, and I’m passionate about how technology can transform people’s lives.
+### I’m 26 years old, a systems analyst, and I mainly work with JavaScript and PHP. I have a postgraduate degree in UX/UI, I'm currently studying Python and Angular, and I’m passionate about how technology can transform people’s lives.
 #### I developed a platform focused on improving the daily life of psychology clinics, and it's currently in beta testing. You can check it out by clicking <a href="https://psiche.app.br">HERE</a>.
 #### I run an agency focused on website development, landing pages, and SEO — you can get to know it by clicking <a href="https://sancalproducoes.com.br">HERE</a>.
 #### I developed a blog system using AI, which rewrites news from portals, categorizes them, and posts automatically. You can see it by clicking <a href="https://sancalproducoes.com.br/news">HERE</a>.
@@ -31,7 +31,7 @@
 --
 
 ## Oi! Meu nome é Marcos e sou desenvolvedor de Softwares
-### Tenho 25 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Tenho pós graduação em UX/UI, estudo Python, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
+### Tenho 26 anos, sou analista de sistemas, e trabalho principalmente com JavaScript e PHP. Tenho pós graduação em UX/UI, estudo Python, Angular e sou apaixonado por como a tecnologia pode transformar a vida das pessoas.
 #### Desenvolvi uma plataforma focado em melhorar o dia a dia de clínicas e psicologia, e está em teste beta. você pode ver clicando <a href="https://psiche.app.br">AQUI</a>
 #### Tenho uma agência focada no desenvolvimento de sites, landing pages e SEO, e você pode conhecê-la, clicando <a href="https://sancalproducoes.com.br">AQUI</a>
 #### Desenvolvi um sistema de blog utilizando IA, que reescreve noticias de portais, categoriza, e posta automaticamente, e você pode ver clicando <a href="https://sancalproducoes.com.br/news">AQUI</a>
