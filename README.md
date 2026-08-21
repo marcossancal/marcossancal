@@ -16,6 +16,29 @@ Built for developers who want to ship MVPs fast without sacrificing control.
 `PHP` · `MySQL/MariaDB` · `REST API` · `Open Source` · `Self-hosted`
 
 ---
+### ✨ [Lume](https://apps.sancalproducoes.com.br/lume/login) — *Available*
+> **A modern note-taking and personal organization app designed for ideas, tasks, and everyday planning.**
+
+Lume combines rich-text notes, checklists, images, drawings, reminders, templates, and visual customization in a clean and intuitive workspace. As a Progressive Web App, it can be installed on desktop and mobile devices, works offline, and synchronizes content when the connection is restored.
+
+Built for people who want the flexibility of a complete editor without the complexity of traditional productivity tools.
+
+`JavaScript` · `PHP` · `MySQL/MariaDB` · `PWA` · `Offline-first` · `Rich Text Editor`
+
+---
+
+### ⛪ Catholic Hub — *In Development*
+> **A digital platform that brings Catholic faith, community, and spiritual life together in one place.**
+
+Catholic Hub is being built as more than a collection of religious tools: it is a faith-centered digital community where users will be able to connect with friends, share publications, join prayer groups, exchange private messages, and follow their spiritual journey.
+
+The platform will include daily liturgy, saints, prayers, guided rosaries, novenas, spiritual journals, intentions, community groups, notifications, and personalized accessibility features. Private spiritual information will remain separated from the social network and protected by granular privacy controls.
+
+The project is being developed with a strong focus on privacy, accessibility, responsible community moderation, offline access, and a safe experience for people of different ages.
+
+`PHP` · `Flight PHP` · `JavaScript` · `MySQL/MariaDB` · `REST API` · `PWA` · `Social Platform`
+
+---
 
 ### 🧠 [Psiche](https://psiche.app.br) — *Beta*
 > **A complete management platform for psychology clinics and independent psychologists.**
@@ -106,6 +129,29 @@ Feito para desenvolvedores que querem lançar MVPs rapidamente sem abrir mão do
 > **Uma plataforma completa de gestão para clínicas de psicologia e psicólogos autônomos.**
 
 Agendamento, prontuários, controle financeiro e fluxos de trabalho digitais — tudo em um só lugar, pensado especificamente para profissionais de saúde mental. Atualmente em beta fechado.
+
+---
+### ✨ [Lume](https://apps.sancalproducoes.com.br/lume/login) — *Disponível*
+> **Um aplicativo moderno de notas e organização pessoal, criado para registrar ideias, tarefas e planos do dia a dia.**
+
+O Lume reúne notas com formatação avançada, checklists, imagens, desenhos, lembretes, templates e personalização visual em um ambiente limpo e intuitivo. Como Progressive Web App, pode ser instalado no computador ou celular, funciona offline e sincroniza o conteúdo quando a conexão é restabelecida.
+
+Criado para quem deseja a flexibilidade de um editor completo sem a complexidade das ferramentas tradicionais de produtividade.
+
+`JavaScript` · `PHP` · `MySQL/MariaDB` · `PWA` · `Offline-first` · `Editor de Texto Rico`
+
+---
+
+### ⛪ Hub Católico — *Em Desenvolvimento*
+> **Uma plataforma digital que reúne fé, comunidade e vida espiritual em um só lugar.**
+
+O Hub Católico está sendo desenvolvido para ser mais do que um conjunto de ferramentas religiosas: será uma comunidade digital centrada na fé, na qual os usuários poderão encontrar amigos, compartilhar publicações, participar de grupos de oração, trocar mensagens privadas e acompanhar sua caminhada espiritual.
+
+A plataforma contará com liturgia diária, santos, orações, terço guiado, novenas, diário espiritual, intenções, comunidades, notificações e recursos personalizados de acessibilidade. As informações espirituais privadas permanecerão separadas da rede social e protegidas por controles específicos de privacidade.
+
+O projeto está sendo construído com atenção especial à privacidade, acessibilidade, moderação responsável, funcionamento offline e segurança para usuários de diferentes idades.
+
+`PHP` · `Flight PHP` · `JavaScript` · `MySQL/MariaDB` · `API REST` · `PWA` · `Rede Social`
 
 ---
 
