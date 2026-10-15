@@ -27,10 +27,10 @@ Built for people who want the flexibility of a complete editor without the compl
 
 ---
 
-### ⛪ Catholic Hub — *In Development*
-> **A digital platform that brings Catholic faith, community, and spiritual life together in one place.**
+### ⛪ Christian Hub — *In Development*
+> **A digital platform that brings Christian faith, community, and spiritual life together in one place.**
 
-Catholic Hub is being built as more than a collection of religious tools: it is a faith-centered digital community where users will be able to connect with friends, share publications, join prayer groups, exchange private messages, and follow their spiritual journey.
+Christian Hub is being built as more than a collection of religious tools: it is a faith-centered digital community where users will be able to connect with friends, share publications, join prayer groups, exchange private messages, and follow their spiritual journey.
 
 The platform will include daily liturgy, saints, prayers, guided rosaries, novenas, spiritual journals, intentions, community groups, notifications, and personalized accessibility features. Private spiritual information will remain separated from the social network and protected by granular privacy controls.
 
@@ -142,10 +142,10 @@ Criado para quem deseja a flexibilidade de um editor completo sem a complexidade
 
 ---
 
-### ⛪ Hub Católico — *Em Desenvolvimento*
+### ⛪ Hub Cristão — *Em Desenvolvimento*
 > **Uma plataforma digital que reúne fé, comunidade e vida espiritual em um só lugar.**
 
-O Hub Católico está sendo desenvolvido para ser mais do que um conjunto de ferramentas religiosas: será uma comunidade digital centrada na fé, na qual os usuários poderão encontrar amigos, compartilhar publicações, participar de grupos de oração, trocar mensagens privadas e acompanhar sua caminhada espiritual.
+O Hub Cristão está sendo desenvolvido para ser mais do que um conjunto de ferramentas religiosas: será uma comunidade digital centrada na fé, na qual os usuários poderão encontrar amigos, compartilhar publicações, participar de grupos de oração, trocar mensagens privadas e acompanhar sua caminhada espiritual.
 
 A plataforma contará com liturgia diária, santos, orações, terço guiado, novenas, diário espiritual, intenções, comunidades, notificações e recursos personalizados de acessibilidade. As informações espirituais privadas permanecerão separadas da rede social e protegidas por controles específicos de privacidade.
 
